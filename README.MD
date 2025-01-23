@@ -2,8 +2,6 @@
 
 Este es un proyecto de Agenda Personal que permite a los usuarios gestionar sus contactos. Los usuarios pueden crear, editar, eliminar y buscar contactos. Además, pueden exportar e importar contactos en formato CSV.
 
-## Estructura del Proyecto
-
 ## Requisitos
 
 - PHP versión 7.4 o superior

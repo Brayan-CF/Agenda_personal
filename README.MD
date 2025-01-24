@@ -84,15 +84,7 @@ Este es un proyecto de Agenda Personal que permite a los usuarios gestionar sus 
 - **templates/**: Plantillas HTML de la aplicación.
 - **vendor/**: Contiene las dependencias instaladas por Composer.
 
-## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Sube tus cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request en GitHub.
 
 
 
